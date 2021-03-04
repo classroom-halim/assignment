@@ -1,1 +1,2 @@
 # assignment
+write "hello halim" ====> 
